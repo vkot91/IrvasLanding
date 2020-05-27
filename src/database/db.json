@@ -1,0 +1,33 @@
+{
+  "requests": [
+    {
+      "user_name": "dfg",
+      "user_phone": "123454",
+      "width": "23",
+      "height": "3232",
+      "profile": "Cold",
+      "type": "aluminum",
+      "id": 1
+    },
+    {
+      "user_name": "Kostik",
+      "user_phone": "123454",
+      "window": "0",
+      "type": "plastic",
+      "profile": "Cold",
+      "width": "45",
+      "height": "76",
+      "id": 2
+    },
+    {
+      "user_name": "Kostik",
+      "user_phone": "123454",
+      "window": "1",
+      "width": "34",
+      "height": "12",
+      "type": "tree",
+      "profile": "cold",
+      "id": 3
+    }
+  ]
+}
